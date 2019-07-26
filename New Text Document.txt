@@ -1,0 +1,12 @@
+https://towardsdatascience.com/the-5-sampling-algorithms-every-data-scientist-need-to-know-43c7bc11d17c   ---  undersampling
+
+https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b       ---- correlation
+
+https://streamhacker.com/2010/06/16/text-classification-sentiment-analysis-eliminate-low-information-features/ -- nLP
+
+https://streamhacker.com/2010/06/16/text-classification-sentiment-analysis-eliminate-low-information-features/    --- featuree selction
+
+
+featuer slection using tfidf vectorizer
+
+
